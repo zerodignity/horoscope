@@ -1,0 +1,15 @@
+.page {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+#main-input {
+    max-width: 250px;
+}
+
+.input-item {
+    display: flex;
+    gap: 5px;
+}
